@@ -26,15 +26,4 @@
 <div>
 <a href="https://github.com/Elcroc">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elcroc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-https://github.com/Elcroc/Elcroc/blob/output/github-contribution-grid-snake.svg         
-          
-     
-          
-<!--
-**Elcroc/Elcroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+</div>              
